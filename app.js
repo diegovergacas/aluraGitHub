@@ -1,3 +1,13 @@
+/**
+ * fgfdhh
+ * ghgfjghjhg
+ * gjhgjhjhg
+ * hjhgj
+ * hjhgjkhg
+ */
+
+
+
 alert("Boas vindas ao jogo do número secreto");
 let numeroMax = 1000;
 
